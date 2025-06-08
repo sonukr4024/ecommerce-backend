@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7bc647f-d0ce-4dca-abf8-7b34b4ef7302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/RestControllerEcom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/auth/CustomUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/auth/JwtAuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/auth/JwtUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/auth/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/product/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/product/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/product/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/product/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/product/ProductRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/product/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/users/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ecommerce/users/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="e7bc647f-d0ce-4dca-abf8-7b34b4ef7302" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1749391017092</updated>
     </task>
+    <task id="LOCAL-00001" summary="ecom">
+      <created>1749406409786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749406409786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ecom" />
+    <option name="LAST_COMMIT_MESSAGE" value="ecom" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
