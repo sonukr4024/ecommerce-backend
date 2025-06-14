@@ -1,0 +1,4 @@
+FROM openjdk:17
+COPY target/ecommerce.jar ecommerce.jar
+ENTRYPOINT ["java", "-jar", "user-management.jar"]
+EXPOSE 1010

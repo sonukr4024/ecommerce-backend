@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7bc647f-d0ce-4dca-abf8-7b34b4ef7302" name="Changes" comment="" />
+    <list default="true" id="e7bc647f-d0ce-4dca-abf8-7b34b4ef7302" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +44,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Win10/IdeaProjects/ecommerce/src/main/java/org/ecommerce"
+    "last_opened_file_path": "C:/Users/Win10/IdeaProjects/ecommerce"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10\IdeaProjects\ecommerce" />
       <recent name="C:\Users\Win10\IdeaProjects\ecommerce\src\main\java\org\ecommerce" />
       <recent name="C:\Users\Win10\IdeaProjects\ecommerce\src\main\resources" />
     </key>
